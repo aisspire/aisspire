@@ -1,5 +1,8 @@
 ## Hi there 👋
+如果我的项目刚好帮你省了一点时间，可以在这里支持我：
+[支持一下](https://你的用户名.github.io/support)
 
+当然，star、issue、反馈问题也同样有帮助。
 <!--
 **aisspire/aisspire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
